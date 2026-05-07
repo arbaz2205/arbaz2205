@@ -1,5 +1,30 @@
 # 💫 About Me:
-Results-driven SQL Server Database Administrator with 3+ years of experience supporting mission-critical production databases across <br>on-premises and Azure environments. Azure certified professional (AZ-900, DP-300) with strong expertise in SQL Server <br>administration, HA/DR, backup and recovery, performance tuning, automation, and cloud integration. Proven ability to improve <br>system performance, reduce downtime, and meet SLA-driven uptime requirements.<br>gym guy and love to play games when free BGMI 
+# Hi, I'm Arbaz Patel 👋
+
+💼 SQL Server DBA | PL/SQL Developer | Azure Certified  
+🛠️ 3+ years of experience in SQL Server Administration, Performance Tuning, HA/DR, Backup & Recovery, and Automation.  
+☁️ Skilled in On-Prem & Azure environments with hands-on experience in SQL Server, Oracle, Linux, AutoSys, and deployment tools.  
+🚀 Passionate about optimizing databases, automating processes, and building reliable systems.  
+
+## Tech Stack
+- SQL Server
+- T-SQL & PL/SQL
+- Azure SQL
+- SSRS
+- Linux & Shell Scripting
+- AutoSys & uDeploy
+- Performance Tuning
+- HA/DR & Backup Recovery
+
+## Certifications
+- AZ-900
+- DP-300
+
+## Interests
+🏋️ Gym & Fitness  
+🎮 BGMI Gamer  
+📚 Continuous Learning  
+☁️ Cloud & Database Technologies
 
 
 ## 🌐 Socials:
