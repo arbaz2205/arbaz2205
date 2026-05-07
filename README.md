@@ -6,16 +6,6 @@
 ☁️ Skilled in On-Prem & Azure environments with hands-on experience in SQL Server, Oracle, Linux, AutoSys, and deployment tools.  
 🚀 Passionate about optimizing databases, automating processes, and building reliable systems.  
 
-## Tech Stack
-- SQL Server
-- T-SQL & PL/SQL
-- Azure SQL
-- SSRS
-- Linux & Shell Scripting
-- AutoSys & uDeploy
-- Performance Tuning
-- HA/DR & Backup Recovery
-
 ## Certifications
 - AZ-900
 - DP-300
